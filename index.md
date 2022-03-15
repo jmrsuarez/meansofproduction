@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## MEDIOS DE PRODUCCION
+
+- Un uber de x con telegram API para la cercania por Geotagging
+Enlazar propuestas de negocio con prospectos de clientes
+
+- Cuponera de comisiones, tumins
+Es como una fuerza de ventas instantanea
+
+- Una cripto fountain
+
+- Crear videos con WASM y FFMPG
+
+
 
 You can use the [editor on GitHub](https://github.com/jmrsuarez/meansofproduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
