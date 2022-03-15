@@ -10,6 +10,8 @@ Enlazar propuestas de negocio con prospectos de clientes
 Es como una fuerza de ventas instantanea
 - Una cripto fountain
 - Crear videos con WASM y FFMPG
+- Un Paywall
+- Un videojuego o servicio como software conectado a una tienda o a una red sociodigital
 
 
 
